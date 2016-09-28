@@ -1,0 +1,84 @@
+img#logo { width: 100px; height: 50px;  }
+
+nav ul{
+	list-style: none;
+	padding: .5em 0;
+	
+  }
+
+nav li{
+	display: inline;
+	padding: 0 1em;
+	font-weight: bold;
+	font-size: 30px;
+}  
+
+nav a{ text-decoration: none;
+		color: black;
+ }
+
+ body { background-color: ; }
+
+ h1 {text-align: center; padding-bottom: 1em;}
+
+ h1 a{text-decoration: none; color: black;}
+
+ #tr { overflow: hidden;}
+
+ #tr #book1 {padding-bottom: 4em;}
+
+ #tr #b1{float: left; }
+
+ p #bk1{padding-top: 6em;}
+
+ #tr #r1 {padding-top: 10em; }
+
+ p#b2 {max-width: 200px}
+
+ img#bk2 {width: 90%; height:30%; max-width: 90%;}
+
+ #tr #b2{float: left;}
+
+ #tr #r2 { float: auto; padding-top: 9em;}
+
+
+#tr2 { overflow: hidden;}
+
+ #tr2 #book3 {padding-bottom: 4em;}
+
+ #tr2 #b3{float: left; }
+
+p #bk3{padding-top: 6em;}
+
+ #tr2 #r3 {padding-top: 10em; }
+
+ p#b4 {max-width: 200px}
+
+ img#bk4 {width: 90%; height:30%; max-width: 90%;}
+
+ #tr2 #b4{float: left;}
+
+ #tr2 #r4 { float: auto; padding-top: 9em;}
+
+
+
+ #content {overflow: hidden;border-top: 3px solid black; border-bottom: 3px solid black; margin-top: 10em;}
+
+#content a{text-decoration: none; color: black;}
+
+ 
+#content section{width: 40%; float: left;}
+
+#newti {text-align: center;}
+
+#news {border-right: 3px solid black; padding-left: em;
+	   padding-right: 6em;}
+
+#dati {text-align: center;}	    
+
+#date {padding-left: 10em; padding-right: 
+ ;}
+
+footer{text-align: center; padding-top: 3em}
+
+div p {color: black;}
